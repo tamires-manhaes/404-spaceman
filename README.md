@@ -17,8 +17,6 @@ Currently, two official plugins are available:
 
 ## Usage
 
-## Usage
-
 - download this project 
 - go to **Page.tsx**
 - copy the code and add all the imports in project. 
